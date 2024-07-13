@@ -1,5 +1,3 @@
-## [Deployed Website](https://comfy-store-slzx.onrender.com)
-
 ## Useful Project Resources
 
 - [Complete Project](https://react-vite-comfy-store-v2.netlify.app/)
@@ -4972,3 +4970,6 @@ const Header = () => {
 }
 
 ```
+#   C o m f y - S t o r e 
+ 
+ 
